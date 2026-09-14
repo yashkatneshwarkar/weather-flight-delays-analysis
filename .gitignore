@@ -1,0 +1,4 @@
+data/raw/
+flights_weather.db
+data/flights_clean_export.csv
+.ipynb_checkpoints/
